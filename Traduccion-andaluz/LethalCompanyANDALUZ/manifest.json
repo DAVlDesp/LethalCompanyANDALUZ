@@ -1,7 +1,0 @@
-{
-    "name": "LethalCompanyANDALUZ",
-    "version_number": "0.1.0",
-    "website_url": "",
-    "description": "¡Traducción al Adaluz, el mod original es `LethalCompanyLAT` de @ChomusukeDEV! || Andalusian translation, the original mod `LethalCompanyLAT`was created by @ChomusukeDEV",
-    "dependencies": ["BepInEx-BepInExPack-5.4.2100", "Aavild-NewTerminal-1.4.0"]
-}
