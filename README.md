@@ -1,8 +1,5 @@
-# LethalCompanyANDALUZ
-Traducción al andaluz de Lethal Company
+# Lethal Company en ANDALUZ
 
-### ⚠ IMPORTANTE ⚠
+Estos son Varios Mods que he ido añadiendo poco a poco. **Ninguto de estos MODs estan echos por mi desde 0**, la gran mayoria son modificaciones de otros MODs (Dentro de cada README estan los autores originales)
 
-Este mod no es mio, el original es "**Lethal Company ES-LAT de @ChomusukeDEV**", yo solo cambie las voces.
 
-La version original del mod (ES-LAM) es esta: "<a href="https://thunderstore.io/c/lethal-company/p/ChomusukeDEV/LethalCompanyLAT/">Lethal Company ES-LAT de @ChomusukeDEV</a>"
