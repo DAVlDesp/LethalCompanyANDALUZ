@@ -1,9 +1,9 @@
 # LethalCompanyANDALUZ
 Traducción al andaluz de Lethal Company
 
-# ⚠ IMPORTANTE ⚠, este mod no es mio, el original es "Lethal Company ES-LAT de @ZeekerssRBLX", yo solo cambie las voces.
+## ⚠ IMPORTANTE ⚠, este mod no es mio, el original es "Lethal Company ES-LAT de @ZeekerssRBLX", yo solo cambie las voces.
 
-# Lethal Company Andalú
+## Lethal Company Andalú
 
 ### ¡¡IMPORTANTE!!</br>
 
