@@ -1,6 +1,6 @@
 {
     "name": "AnladusianDropshipMercadona",
-    "version_number": "1.2.0",
+    "version_number": "1.4.0",
     "website_url": "",
     "description": "Changes the dropship music to the Mercadona theme",
     "dependencies": [
